@@ -7,7 +7,7 @@ import java.util.Scanner;
      * It should primarily call other methods to do its work.
      * Do NOT edit this method until after you have fully satisfied the reqs for a 5
      */
-
+    /*my siter taught me how to use while, if, and else statements to make and break a loop in order to restart the story */
     public void start() {
         String userName = getUserName();
         printGreeting(userName);
