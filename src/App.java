@@ -137,7 +137,7 @@ import java.util.Scanner;
     /*fill in inputs to make madlib */
 
         String story1  = "Once upon a time, there was a " + adj1 + " " + noun1 + " called " + name1 +
-        " who lived in " + place1 + " " + ". One day, as they were " + verb1 + "in the streets of " + place1 + ". they found a " + 
+        " who lived in " + place1 + " " + ". One day, as they were " + verb1 + "in the streets of " + place1 + " they found a " + 
         adj2 + " " + noun2 + " and decided to " + verb2 + " it until " + verbed + ". Fortunately, a magical " + animal + " swooped in and gave everyone " + numThing + ". they were all very satisfied with their new " + numThing + " so they all went home and lived happily ever after!";
     
     /*Print story */
@@ -172,7 +172,7 @@ import java.util.Scanner;
 
     /*filling story with user input and printing it out*/
     
-        String story2 = "In the mythical land of " + place2 + " , vlorp is the most popular dish. It's ingredients include " + ing1 + " " + ing2 + " and the delicious delicacy of " + ing3 + ". Vlorp has a captivating smell of" + scent1 + " and " + scent2 ;
+        String story2 = "In the mythical land of " + place2 + " , vlorp is the most popular dish. It's ingredients include " + ing1 + " " + ing2 + " and the delicious delicacy of " + ing3 + ". Vlorp has a captivating smell of " + scent1 + " and " + scent2 ;
         
         System.out.println (story2);
     }
